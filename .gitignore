@@ -1,0 +1,28 @@
+# Entorno virtual (cada usuario lo crea con instalar.bat)
+venv/
+.venv/
+
+# Datos y caché del usuario
+data/chroma/
+data/vault/
+audio/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.tmp.*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log

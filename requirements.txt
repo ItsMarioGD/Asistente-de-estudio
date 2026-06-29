@@ -1,0 +1,7 @@
+streamlit>=1.39
+ollama>=0.4
+chromadb>=0.5
+pypdf>=5.0
+trafilatura>=1.8
+edge-tts>=6.1
+pygame-ce>=2.5
